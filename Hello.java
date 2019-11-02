@@ -4,7 +4,15 @@ class Hello
 	{
 		System.out.println("Hello");
 	}
+
+	public void m2()
+	{
+		
+	}
+	
+
 	public void d1()
 	{
 	}
+
 }
