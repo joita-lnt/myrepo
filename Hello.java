@@ -4,4 +4,7 @@ class Hello
 	{
 		System.out.println("Hello");
 	}
+	public void d1()
+	{
+	}
 }
